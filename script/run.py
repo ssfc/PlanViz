@@ -73,3 +73,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# python script/run.py --map c:/gitcloud/LORR24_ssfc/example_problems/random.domain/maps/random-32-32-20.map --plan c:/gitcloud/LORR24_ssfc/cmake-build-release/test.json --grid --aid --tid
