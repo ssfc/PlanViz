@@ -82,3 +82,8 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+
+# Test on windows vscode platform. 编辑配置
+# python script/run.py --map example/warehouse_small.map --plan example/warehouse_small_2026.json
