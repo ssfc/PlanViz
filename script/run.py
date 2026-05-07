@@ -87,3 +87,7 @@ if __name__ == "__main__":
 
 # Test on windows vscode platform. 编辑配置
 # python script/run.py --map example/warehouse_small.map --plan example/warehouse_small_2026.json
+# python script/run.py --map  C:\gitcloud\auto-ssfc-task-scheduler\lorr-code\guess_errands\game.domain\maps\orz900d.map  --plan      C:\gitcloud\auto-ssfc-task-scheduler\guess-errand-script\orz-example_4000.output.json
+
+
+
